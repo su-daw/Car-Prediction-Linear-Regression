@@ -1,2 +1,2 @@
 # Linear-Regression
-Linear Regression project
+Machine Learning using Linear Regression project. 
