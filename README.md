@@ -1,4 +1,4 @@
-# Linear-Regression
+# Regression
 ![alt text](https://thinkingneuron.com/wp-content/uploads/2020/09/Car-price-prediction-case-study.png)
 
 ### Car Price Prediction with Linear Regression. 
