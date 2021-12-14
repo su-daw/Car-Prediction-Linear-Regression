@@ -11,7 +11,7 @@ The aim is to develop models based on our data to predict car prices using machi
  - MSE Test Score 0.012
  
  2- Lasso Regularization
- - Bfore Feature Selection: MSE Test Score 0.012
+ - Before Feature Selection: MSE Test Score 0.012
  - After Feature Selection: MSE Test Score 0.011
  
  3- Ridge Regularization 
