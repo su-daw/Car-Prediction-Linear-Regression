@@ -18,4 +18,4 @@ The aim is to develop models based on our data to predict car prices using machi
  - MSE Test Score 0.012
 
 Our Selected Model with the best MSE Test Score is <strong> Lasso Regularization </strong> after Feature Selection with MSE Test Score <strong> 0.011</strong>
-#### Proposed by: Sultanah Aldossari & Rawan Alharbi
+#### Proposed by: Sultanah Aldossari & <a href="https://github.com/Rawanawh">Rawan Alharbi</a> 
